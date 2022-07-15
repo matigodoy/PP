@@ -1,0 +1,4 @@
+Hacer 5 ejercicios de archivos desde el 11 en adelante (a elección) que tengan
+* Menú de opciones
+*Pantallas amigables con los usuarios
+* Controles de integridad
